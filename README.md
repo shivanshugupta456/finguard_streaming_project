@@ -19,6 +19,12 @@ Python transaction simulator
 PostgreSQL customer SQL scripts are provided separately.
 ```
 
+## Databricks Catalog
+
+The project uses Unity Catalog to organize raw, cleaned, curated, and source datasets.
+
+![FinGuard Databricks catalog](images/databricks_catalog.png)
+
 ## Repository layout
 
 ```text
